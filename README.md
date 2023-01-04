@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodyeid
-- 👀 I’m interested in Data Science, particularly with R and Python.
-- 🌱 I also do App Development: I built and deployed TriviaLinked to iOS and Google Play.
-- 💞️ I’m looking to collaborate on Data Science Projects, particularly in R Shiny.
+- 👀 Expert in R and Python, but always learning.
+- 🌱 Self-taught in app development: I built and deployed TriviaLinked to iOS and Google Play using React Native.
+- 💞️ I love creating tools to help people and organizations grow.
 - 📫 How to reach me: via LinkedIn!
 
 <!---
