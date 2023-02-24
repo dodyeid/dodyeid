@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dodyeid
-- 👀 Expert in R and Python, but always learning.
+- 👀 Expert in R, but always learning.
 - 🌱 Self-taught in app development: I built and deployed TriviaLinked to iOS and Google Play using React Native.
 - 💞️ I love creating tools to help people and organizations grow.
 - 📫 How to reach me: via LinkedIn!
