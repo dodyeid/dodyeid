@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dodyeid
+- 👋 Hi, I’m Dody!
 - 🧠 Strong background in statistics, mathematics, computer science, and economics.
 - 👀 Expert in R, but always learning.
 - 🌱 Self-taught in app development: I built and deployed TriviaLinked to iOS and Google Play using JavaScript, React Native, and Firebase.
